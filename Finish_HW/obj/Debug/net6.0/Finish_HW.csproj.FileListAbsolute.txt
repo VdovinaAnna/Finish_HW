@@ -1,0 +1,15 @@
+C:\Users\Ольга\Desktop\Анна\Product\Finish_HW\Finish_HW\bin\Debug\net6.0\Finish_HW.exe
+C:\Users\Ольга\Desktop\Анна\Product\Finish_HW\Finish_HW\bin\Debug\net6.0\Finish_HW.deps.json
+C:\Users\Ольга\Desktop\Анна\Product\Finish_HW\Finish_HW\bin\Debug\net6.0\Finish_HW.runtimeconfig.json
+C:\Users\Ольга\Desktop\Анна\Product\Finish_HW\Finish_HW\bin\Debug\net6.0\Finish_HW.dll
+C:\Users\Ольга\Desktop\Анна\Product\Finish_HW\Finish_HW\bin\Debug\net6.0\Finish_HW.pdb
+C:\Users\Ольга\Desktop\Анна\Product\Finish_HW\Finish_HW\obj\Debug\net6.0\Finish_HW.csproj.AssemblyReference.cache
+C:\Users\Ольга\Desktop\Анна\Product\Finish_HW\Finish_HW\obj\Debug\net6.0\Finish_HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ольга\Desktop\Анна\Product\Finish_HW\Finish_HW\obj\Debug\net6.0\Finish_HW.AssemblyInfoInputs.cache
+C:\Users\Ольга\Desktop\Анна\Product\Finish_HW\Finish_HW\obj\Debug\net6.0\Finish_HW.AssemblyInfo.cs
+C:\Users\Ольга\Desktop\Анна\Product\Finish_HW\Finish_HW\obj\Debug\net6.0\Finish_HW.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\Desktop\Анна\Product\Finish_HW\Finish_HW\obj\Debug\net6.0\Finish_HW.dll
+C:\Users\Ольга\Desktop\Анна\Product\Finish_HW\Finish_HW\obj\Debug\net6.0\refint\Finish_HW.dll
+C:\Users\Ольга\Desktop\Анна\Product\Finish_HW\Finish_HW\obj\Debug\net6.0\Finish_HW.pdb
+C:\Users\Ольга\Desktop\Анна\Product\Finish_HW\Finish_HW\obj\Debug\net6.0\Finish_HW.genruntimeconfig.cache
+C:\Users\Ольга\Desktop\Анна\Product\Finish_HW\Finish_HW\obj\Debug\net6.0\ref\Finish_HW.dll
